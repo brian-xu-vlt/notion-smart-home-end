@@ -32,10 +32,12 @@ Works with Notion’s `contenteditable` blocks and respects visual line wrapping
 ## Installation
 
 1. Install **Tampermonkey**
-2. Open the script file:
-   - `notion-smart-home-end.user.js`
-3. Click **Install**
-4. Reload Notion
+2. Click on Tampermonkey icon > `dashboard` > utilities > import from URL
+   <img width="2291" height="780" alt="Screenshot 2026-01-16 at 10 33 58" src="https://github.com/user-attachments/assets/35364f4b-0a5c-4a76-8677-5d278c818b90" />
+3. Paste the raw file url for `notion-smart-home-end.user.js`
+   - `https://raw.githubusercontent.com/brian-xu-vlt/notion-smart-home-end/refs/heads/main/notion-smart-home-end.js`
+5. Click **Install**
+6. Reload Notion
 
 ## Scope
 
