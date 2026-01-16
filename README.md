@@ -14,6 +14,10 @@ This differs from code editors and native text editors, where Home/End operate o
 
 This Tampermonkey userscript implements **editor-grade Home/End behavior**:
 
+
+https://github.com/user-attachments/assets/16ea0fec-b851-426c-a5eb-fe2d8109ed79
+
+
 - **Home**
   - Move to start of the current line
   - If already at start → move to start of the **previous line**
